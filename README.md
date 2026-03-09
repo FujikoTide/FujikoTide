@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 
 <div align="center">
-<a href="#"><h2>View My GitHub Portfolio</h2></a>
+<a href="#"><h3>View My GitHub Portfolio</h3></a>
 </div>
 
 <h2 align="center">🚗 About Me 🚙</h2>
