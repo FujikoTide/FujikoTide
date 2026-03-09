@@ -1,15 +1,13 @@
 <h1 align="center">Hi there 👋</h1>
 
 <div align="center">
-<a href="#"><h3>View My GitHub Portfolio</h3></a>
+<a href="#">View My GitHub Portfolio</a>
 </div>
 
 <h2 align="center">🚗 About Me 🚙</h2>
 <p align="center">
 I'm a London based Full Stack Developer building responsive web applications using modern technologies. Always learning, currently trying to improve my Typescript generics and not to fail too many chess puzzles. ♟️
 </p>
-
-<div style="border-top: 1px solid #30363d; margin: 16px 0;"></div>
 
 <h2 align="center">Skills & Tools</h2>
 
