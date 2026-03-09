@@ -10,7 +10,7 @@
 
 <h2 align="center">🚗 About Me 🚙</h2>
 <p align="center">
-I'm a London based Full Stack Developer with building responsive web applications using modern technologies. Always learning, currently trying to improve my Typescript generics and not to fail too many chess puzzles. ♟️
+I'm a London based Full Stack Developer building responsive web applications using modern technologies. Always learning, currently trying to improve my Typescript generics and not to fail too many chess puzzles. ♟️
 </p>
 
 ---
