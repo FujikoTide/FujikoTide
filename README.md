@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 
 <div align="center">
-<a href="#">View My GitHub Portfolio</a>
+<a href="https://fujikotide.github.io/portfolio/">View My GitHub Portfolio</a>
 </div>
 
 <h2 align="center">🚗 About Me 🚙</h2>
